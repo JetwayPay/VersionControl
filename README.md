@@ -6,11 +6,6 @@ Add your files
  Create or upload files
  Add files using the command line or push an existing Git repository with the following command:
 
-cd existing_repo
-git remote add origin https://gitlab.com/wgu-gitlab-environment/task-templates/d197-version-control.git
-git branch -M main
-git push -uf origin main
-Integrate with your tools
 
  Set up project integrations
 
